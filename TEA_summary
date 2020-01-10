@@ -1,1 +1,20 @@
-Parameter,Scenario,Value
+parameter,scenario,value
+Investment costs, Vertoro, 426.610
+Operational costs, Vertoro, 461.361
+Revenues, Vertoro, 404.896
+NPV, Vertoro, -1044.301
+PBP, Vertoro, 30
+Investment costs, LignoValue, 3255
+Operational costs, LignoValue, 724
+Revenues, LignoValue, 447
+NPV, LignoValue, -7108
+PBP, LignoValue, 30
+Investment costs, Full Pilot, 98100
+Operational costs, Full Pilot, 135869
+Revenues, Full Pilot, 151172
+NPV, Full Pilot, 40203
+PBP, Full Pilot, 4.49
+Input, Vertoro, 1000
+Input, LignoValue, 4000
+Input, Full Pilot, 10000
+
