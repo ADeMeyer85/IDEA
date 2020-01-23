@@ -1,3 +1,7 @@
 city,x,y
 San Francisco, 1, 2
-Montreal, 1, 4
+San Francisco, 2, 4
+San Francisco, 3, 6
+Montreal, 1, 2
+Montreal, 2, 8
+Montreal, 3, 16
