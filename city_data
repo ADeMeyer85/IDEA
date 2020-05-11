@@ -1,7 +1,10 @@
-city,x,y
-San Francisco, 1, 2
-San Francisco, 2, 4
-San Francisco, 3, 6
-Montreal, 1, 2
-Montreal, 2, 8
-Montreal, 3, 16
+Scenario,x,y
+Central DSP, 1, 2
+Central DSP, 2, 4
+Central DSP, 3, 6
+Distributed DSP, 2, 5
+Distributed DSP, 1, 9
+Distributed DSP, 4, 10
+Local DSP, 1, 2
+Local DSP, 2, 8
+Local DSP, 3, 16
